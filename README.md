@@ -8,4 +8,4 @@
 
 3 Получение данных пользователя
 
-![image](https://github.com/user-attachments/assets/af4de5e8-d606-4755-9ea5-047c7b35c6fa)
+![image](https://github.com/user-attachments/assets/38cc09f9-3c65-4e97-827b-02f54ca84fe1)
